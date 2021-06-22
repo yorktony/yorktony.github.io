@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 Tony.
+Hi，我是 Suze.
 
 ### 技能
 
