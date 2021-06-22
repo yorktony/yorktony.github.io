@@ -8,12 +8,12 @@ Hi，我是 Tony.
 
 ### 技能
 
-初学Python，javascript，html，css。
+写作，初学markdown. 
 
 ### 经历
 
 
-分享、记录、成长。
+感悟、记录、成长。
 
 
 
